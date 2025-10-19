@@ -2,11 +2,11 @@
 <!-- Adriano Avlis | GitHub Profile README -->
 <!-- ==================== -->
 
-<h1 align="center">👋 Olá, eu sou Adriano Avlis / Hi, I’m Adriano Avlis!</h1>
+<h1 align="center">👋 Olá, eu sou Luis Adriano  / Hi, I’m Luis Adriano!</h1>
 
 <p align="center">
-  💻 <b>Analista de Dados e Sistemas</b> | Data & Systems Analyst <br>
-  🌍 Rocinha, Rio de Janeiro · Estudante de <b>Sistemas de Informação (UFF)</b> <br>
+  💻 <b>Analista de Dados e Sistemas (UFF)</b> | Data & Systems Analyst <br>
+  🌍 Rocinha, Rio de Janeiro · <br>
   🚀 Focado em tecnologia com propósito: análise de dados, automação e impacto social.
 </p>
 
